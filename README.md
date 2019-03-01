@@ -6,7 +6,7 @@ Helper for time managament with trello.
 3. get tasks with the date from `INBOX` list and put them in the corresponding date.
 
 The scheme:
-![scheme](https://github.com/MashaSamoylova/trello-helper/blob/develop/scheme.png)
+![scheme](https://github.com/MashaSamoylova/trello-helper/blob/master/scheme.png)
 
 
 ## Setting
