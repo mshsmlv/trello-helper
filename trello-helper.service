@@ -1,0 +1,6 @@
+[Unit]
+Description=Run foo weekly on Monday
+
+[Service]
+Type=oneshot
+ExecStart=/<path to trello helper>/trello-helper/main.py
