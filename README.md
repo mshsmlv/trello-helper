@@ -12,7 +12,7 @@ The scheme:
 ## Setting
 1. Get from https://trello.com/app-key/ `token` and `key` and put them to `config.py`.
 2. Set `board_url` in `config.py`. Describe your routine tasks in `config.py`.
-3. Change path to script in `trello-helper.service`
+3. Change path to script in `trello-helper.service`.
 
 
 ## Build and run
